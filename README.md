@@ -3,3 +3,6 @@
 This is a simple readme file
 
 NEW Updates
+
+
+new texts
