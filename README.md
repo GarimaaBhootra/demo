@@ -8,3 +8,5 @@ NEW Updates
 new texts
 
 new updated on Branch
+
+stashing example
